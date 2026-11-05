@@ -86,6 +86,13 @@ Explored a decentralized image retrieval system using **blockchain and IPFS** fo
 - Reviewed an AI-assisted implementation involving **Ethereum smart contracts** and blockchain-based metadata, including image ownership and timestamps
 - Examined how decentralized storage and blockchain can support data integrity, transparency, and secure image access
 
+#### ✈️ BookMyTrip — Travel Booking Front-End
+A front-end project inspired by the online travel booking experience, built to apply front-end knowledge and sharpen practical coding skills.
+- Developed a travel booking website interface with a clean, user-friendly UI
+- Worked on responsive web design so the layout adapts across screen sizes
+- Gained hands-on experience building a real-world-inspired project and strengthened problem-solving skills
+- **Tech:** HTML, CSS, JavaScript, React
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
 
 ### 📚 Training
